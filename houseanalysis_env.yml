@@ -1,0 +1,33 @@
+name: HouseAnalysis_envir
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - pandas
+  - shapely
+  - fiona
+  - pyproj
+  - pygeos
+  - rtree
+  - mapclassify
+  - libpysal
+  - matplotlib
+  - geopy
+  - cartopy
+  - pyepsg
+  - contextily
+  - rasterio
+  - geoplot
+  - folium
+  - packaging
+  - seaborn
+  - plotly
+  - statsmodels
+  - scikit-learn
+  - lightgbm
+  - keras
+  - plotly_express
+  - plotly
+  - tensorflow
+  - numpy
+  - scipy
